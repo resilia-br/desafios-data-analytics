@@ -28,6 +28,6 @@ Se forem vários desafios em um mesmo PR indicar no título os níveis e a quant
 
 Envie um Pull Request com sua modificação do arquivo solutions.md adicionando a sua solução segundo o modelo:
 ### Modelo de preenchimento
-Desafio | Tipo | Link para a solução
+Desafio | Stack | Link para a solução
 :---:|:---:|---
-https://github.com/VAGAScom/desafio-front-end | Front-end | https://github.com
+https://github.com/brunopauka/processo_cientista | Stack utilizada | https://github.com
