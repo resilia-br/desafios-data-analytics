@@ -7,6 +7,7 @@ Lista de desafios para praticar o conteúdo de Data Analytics
 Idioma | Dificuldade | Stack | Link
 :---:|:---:|---|---
 PT-BR | Júnior/Pleno | Livre | https://github.com/brunopauka/processo_cientista
+PT-BR | Júnior/Pleno | Python / Colab | https://github.com/meliuz/challenge-data-science
 
 ## Soluções dos desafios
 
